@@ -1,0 +1,50 @@
+:root {
+  /* Brand color */
+  --color-brand-primary-dark: #1b855e;
+  --color-brand-primary: #27b480;
+  --color-brand-primary-light: #98dabe;
+  --color-brand-primary-lightest: #c9ecda;
+
+  /* Site colors */
+  --color-secondary-dark: #e16d73;
+  --color-secondary: #fa7b81;
+  --color-secondary-light: #fdc9c8;
+  --color-secondary-lightest: #ffece8;
+
+  --color-tertiary-dark: #88c6f5;
+  --color-tertiary: #6facda;
+  --color-tertiary-light: #daf3ff;
+
+  --color-quaternary: #d8ccbc;
+  --color-quaternary-light: #f5e8da;
+  --color-quaternary-lightest: #fff7f6;
+
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* Typography colors */
+  --color-type-dark: #252525;
+  --color-type-light: #808080;
+
+  /* Gray colors */
+  --color-neutral-90: #1a1a1a;
+  --color-neutral-85: #262626;
+  --color-neutral-80: #333;
+  --color-neutral-70: #4d4d4d;
+  --color-neutral-60: #666;
+  --color-neutral-50: #808080;
+  --color-neutral-40: #999;
+  --color-neutral-35: #acacac;
+  --color-neutral-30: #b3b3b3;
+  --color-neutral-25: #bfbfbf;
+  --color-neutral-20: #ccc;
+  --color-neutral-15: #cdcdcd;
+  --color-neutral-13: #dedede;
+  --color-neutral-10: #e6e6e6;
+  --color-neutral-8: #ebebeb;
+  --color-neutral-7: #ededed;
+  --color-neutral-6: #f0f0f0;
+  --color-neutral-5: #f2f2f2;
+  --color-neutral-3: #f7f7f7;
+  --color-neutral-2: #fafafa;
+}

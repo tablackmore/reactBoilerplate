@@ -15,7 +15,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: var(--color-brand-primary-dark);
 }
 
 .Home-link {
@@ -28,5 +28,11 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .Home-header {
+    background-color: var(--color-secondary-dark);
   }
 }
